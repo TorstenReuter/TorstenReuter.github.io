@@ -1,0 +1,8 @@
+title: Torsten Reuter
+description: PhD Student in Statistics and Machine Learning @ OvGU Magdeburg
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
